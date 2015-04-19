@@ -1,0 +1,225 @@
+body {
+    font-family: telex, sans-serif;
+    font-size: 1.75em;
+    background-color: #f1f3f3;
+    color: #777;
+}
+.content {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.level-two {
+    margin-left: 3em;
+}
+select {
+    margin-bottom: 1em;
+}
+h1.main {
+    margin-top: 1em;
+    color: #54b135;
+    font-size: 2.5em;
+}
+h2 {
+    margin-top: 2.5em;
+    color: #1d07c3;
+}
+h4 {
+    max-width: 70%;
+    line-height: 1.75em;
+}
+footer {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    font-size: .8em;
+    color: #777;
+}
+.navbar-inverse {
+    background-color: #1d07c3;
+    height: 80px;
+}
+.navbar-brand img {
+    padding-top: 20px;
+    margin-left: 1em;
+}
+ul.nav.navbar-nav li.active a {
+    background-color: #76c456;
+    height: 80px;
+}
+ul.nav.navbar-nav li.active a:hover {
+    background-color: #54b135;
+}
+li.active {
+    background-color: #54b135;
+}
+.navbar-inverse .navbar-nav li a {
+    color: white;
+}
+.navbar-inverse .navbar-nav li a:hover {
+    color: #54b135;
+}
+.navbar-inverse .navbar-nav li a {
+    color: white;
+    padding-top: 45px;
+}
+.form-control {
+    font-size: 1em;
+}
+.form-control::-moz-placeholder {
+    color: #999;
+}
+.form-control:-ms-input-placeholder {
+    color: #999;
+}
+.form-control::-webkit-input-placeholder {
+    color: #999;
+}
+hr {
+    border-color: #c1c1c1;
+    border-width: 1px;
+}
+.btn-success {
+    background-color: #1d07c3;
+    border-color: #1d07c3;
+}
+.btn-success:hover {
+    background-color: #345bd8;
+    border-color: #345bd8;
+}
+button a {
+    color: white !important;
+}
+button a:hover {
+    text-decoration: none;
+}
+.info {
+    color: #1d07c3;
+}
+label.comment {
+    font-size: .8em;
+    margin-bottom: 1em;
+    color: #1d07c3;
+}
+.disclaimer {
+    font-size: .8em;
+    line-height: .8em;
+}
+.help-block {
+    font-size: .8em;
+}
+.lead {
+    margin-right: 25%;
+}
+.top-space {
+    margin-top: 1em;
+}
+
+button.navbar-toggle {
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+@media (max-width: 800px) {
+    .content {
+        margin-left: 1.5em;
+        margin-right: 1.5em;
+    }
+    
+    .navbar-brand img {
+        width: 320px;
+    }
+    h2 {
+        margin-top: 3em;
+        font-size: 1.25em;
+    }
+    h1.main {
+        margin-top: .5em;
+    }
+    
+    .navbar-nav>li a {
+         font-size: .9em;   
+    }
+        footer {
+        margin-top: 1em;
+        margin-bottom: 2em;
+    }
+
+}
+
+@media (max-width: 600px) {
+    .content {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    
+    .navbar-inverse {
+        height: 75px;
+    }
+    .navbar-brand img {
+        width: 240px;
+    }
+    .lead {
+        margin-right: 2.5%;
+    }
+    ul.nav.navbar-nav > li {
+        background-color: #345bd8 !important;
+    }
+    
+    ul.nav.navbar-nav > li:hover {
+        background-color: #1d07c3 !important;
+    }
+    
+    ul li {
+        font-size: .9em;
+        margin-left: -20px;
+    }
+    ul.nav.navbar-nav>li {
+        font-size: 1em;
+        margin-left: 0px;
+    }
+    .navbar-inverse .navbar-collapse,
+    .navbar-inverse .navbar-form {
+        border: none !important;
+        border-color: none !important;
+    }
+    div.navbar-collapse.collapse.in {
+        border: none !important;
+        border-color: none !important;
+        margin-top: 15px;
+    }
+    .collapse .navbar-collapse in li {
+        background-color: #1d07c3;
+    }
+        .navbar-nav>li a {
+         font-size: 1em;   
+    }
+
+
+    h1.main {
+        margin-top: .5em;
+        font-size: 2em;
+    }
+    h2 {
+        margin-top: 2em;
+        font-size: 1.5em;
+    }
+    label.radio-inline {
+        font-size: .75em;    
+    }
+    
+    footer {
+        margin-top: 1em;
+        margin-bottom: 2em;
+        font-size: .6em;
+    }
+    .utility {
+        font-size: .8em;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .navbar-brand img {
+        width: 200px;
+    }
+    
+}

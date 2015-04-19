@@ -1,0 +1,392 @@
+{
+  "specialties": [
+    {
+      "specialty": "Anesthesiology",
+      "number": "82",
+      "subspec": [
+        "Airway/Respiratory Physiology",
+        "Anesthetic Mechanisms",
+        "Cardiovascular Medicine in Anesthesia: Basic Science",
+        "Cardiovascular Medicine in Anesthesia:  Clinical Science",
+        "General Pharmacology",
+        "Health Service Delivery & Management",
+        "Neurosurgical Care",
+        "Obstetrical Anesthesiology",
+        "Pain:  Basic Science",
+        "Pain Management: Acute Clinical",
+        "Pain Management: Chronic Clinical",
+        "Pediatric Anesthesiology",
+        "Perioperative Critical Cae",
+        "Perioperative Hemostasis & Transfusion Medicine",
+        "Regional Anesthesia",
+        "Technology & Monitoring in Anesthesiology",
+        "Related Sections",
+        "Musculoskeletal Pain & Analgesia"
+      ]
+    },
+    {
+      "specialty": "Cardiology",
+      "number": "85",
+      "subspec": [
+        "Arrhythmias, Electrophysiology & Pacing",
+        "Cardiovascular Imaging",
+        "Congenital Heart Disease",
+        "Coronary Artery Disease",
+        "Geriatric Cardiology",
+        "Heart Failure",
+        "Hypertension",
+        "Valvular Disease",
+        "Vascular Diseases (Non-Coronary)",
+        "Related Sections",
+        "Acute Cardiovascular Problems",
+        "Hemodynamics, Vascular Biology & Hypertension Secondary to Kidney Disease",
+        "Pulmonary Vascular Diseases"
+      ]
+    },
+    {
+      "specialty": "Clinical Toxicology",
+      "number": "270",
+      "subspec": []
+    },
+    {
+      "specialty": "Critical Care Medicine",
+      "number": "251",
+      "subspec": [
+        "Acute Cardiovascular Problems",
+        "Ethics & Organization in Critical Care",
+        "Metabolic Disorders in Critical Care",
+        "Neurological Problems in Critical Care",
+        "Pediatric Problems in Critical Care",
+        "Renal & Gastrointestinal Problems in Critical Care",
+        "Respiratory Problems in Critical Care",
+        "Sepsis & Multiple Organ Failure in Critical Care",
+        "Acute Renal Failure",
+        "Perioperative Critical Care"
+      ]
+    },
+    {
+      "specialty": "Dermatology",
+      "number": "84",
+      "subspec": [
+        "Acne-like Disorders",
+        "Acquired & Inherited Bullous Disorders",
+        "Atopic Dermatitis & Other Forms of Eczema",
+        "Cutaneous Signs of Systemic Disease",
+        "Dermatologic & Cosmetic Surgery",
+        "Dermatologic Pathology",
+        "Drug Eruptions",
+        "Hair Diseases",
+        "Nail Diseases",
+        "Pediatric Skin Diseases (incl. Genetic Diseases)",
+        "Photodermatology & Skin Aging",
+        "Pigmentary Disorders",
+        "Psoriasis & Other Inflammatory Diseases",
+        "Skin Cancers (incl. Melanoma & Lymphoma)",
+        "Skin Infections (incl. STDs)",
+        "Urticaria, Vasculitis & Connective Tissue Disease"
+      ]
+    },
+    {
+      "specialty": "Drugs/Pharmacy",
+      "number": "271",
+      "subspec": []
+    },
+    {
+      "specialty": "Emergency Medicine",
+      "number": "252",
+      "subspec": [
+        "Acute Cardiovascular Problems",
+        "Ethics & Organization in Critical Care",
+        "Metabolic Disorders in Critical Care",
+        "Neurological Problems in Critical Care",
+        "Pediatric Problems in Critical Care",
+        "Renal & Gastrointestinal Problems in Critical Care",
+        "Respiratory Problems in Critical Care",
+        "Sepsis & Multiple Organ Failure in Critical Care",
+        "Acute Renal Failure",
+        "Perioperative Critical Care"
+      ]
+    },
+    {
+      "specialty": "Endocrinology and Metabolism",
+      "number": "253",
+      "subspec": [
+        "Adrenal Cortex",
+        "Bone & Mineral Metabolism",
+        "Diabetes & Obesity",
+        "Multiple Endocrine Disorders & Neoplasias",
+        "Neuro-Endocrinology & Pituitary",
+        "Reproductive Endocrinology & Infertility",
+        "Thyroid",
+        "Bone Biology, Osteoporosis & Other Diseases of Bone"
+      ]
+    },
+    {
+      "specialty": "Gastroenterology and Hepatology",
+      "number": "254",
+      "subspec": [
+        "Biliary Tract",
+        "Clinical Nutrition",
+        "Colon & Rectum",
+        "Disorders of Neurogastroenterology & Motility",
+        "Endoscopy",
+        "Esophagus",
+        "Gastrointestinal Cancers",
+        "Gastrointestinal Infections",
+        "Inflammatory Bowel Disease",
+        "Liver Biology & Pathobiology",
+        "Liver Failure & Liver Disease",
+        "Pancreas",
+        "Pediatric Gastroenterology & Hepatology",
+        "Small Intestine",
+        "Stomach & Duodenum",
+        "Vital Hepatitis",
+        "Related Sections",
+        "Renal & Gastrointesti"
+      ]
+    },
+    {
+      "specialty": "Gynecology",
+      "number": "272",
+      "subspec": [
+        "Endometriosis",
+        "Fertility Regulation",
+        "Gynecologic Inflammation & Infections",
+        "Menopause & Post-Reproductive Women’s Health",
+        "Menstrual Abnormalities & Abnormal Uterine Bleeding",
+        "Pregnancy, Labor, Delivery & Postpartum Care",
+        "Psychological Challenges & Issues for Women",
+        "Reproductive Immunology",
+        "Related Sections",
+        "Breast Diseases: Benign & Malignant",
+        "Gynecological Cancers",
+        "Obstetrical Anesthesiology"
+      ]
+    },
+    {
+      "specialty": "Hematology",
+      "number": "255",
+      "subspec": [
+        "Anemias & Hypocellular Marrow Disorders",
+        "Bleeding & Coagulation Disorders",
+        "Hematopoietic Stem Cells",
+        "Leukemia & Proliferative Disorders of Hematic Cells",
+        "Lymphomas & Myelomas",
+        "Non-hematopoietic Stem Cells",
+        "Pediatric Hematology",
+        "Transfusion Medicine"
+      ]
+    },
+    {
+      "specialty": "Hospital Infection Control",
+      "number": "273",
+      "subspec": []
+    },
+    {
+      "specialty": "Hospital Medicine",
+      "number": "257",
+      "subspec": []
+    },
+    {
+      "specialty": "Infectious Diseases",
+      "number": "259",
+      "subspec": [
+        "Antimicrobials & Drug Resistance",
+        "Bacterial Infections",
+        "Bioterrorism",
+        "HIV Infection & AIDS: Basic Science",
+        "HIV Infection & AIDS: Clinical",
+        "HIV Infection & AIDS: Vaccines",
+        "Invasive Fungal Infections",
+        "Nosocomial & Healthcare-associated Infections",
+        "Pediatric Infectious Diseases",
+        "Sexually Transmitted Diseases (without HIV)",
+        "Tropical & Travel-associated Diseases",
+        "Viral Infections (without HIV)",
+        "Related Sections",
+        "Gastrointestinal Infe<ctions",
+        "Gynecologic Inflammation & Infections",
+        "Infectious Diseases of the Nervous System",
+        "Respiratory Infections",
+        "Skin Infections (incl. STDs)",
+        "Urological Infections",
+        "Viral Hepatitis"
+      ]
+    },
+    {
+      "specialty": "Internal Medicine/Drug Therapy",
+      "number": "258",
+      "subspec": []
+    },
+    {
+      "specialty": "Lab Med",
+      "number": "274",
+      "subspec": []
+    },
+    {
+      "specialty": "Nephrology and Hypertension",
+      "number": "260",
+      "subspec": [
+        "Acute Renal Failure",
+        "Dialysis & Renal Transplantation",
+        "Hemodynamics, Vascular Biology & Hypertension Secondary to Kidney Disease",
+        "Hereditary, Genetic & Developmental Aspects of Nephrology",
+        "Mineral Metabolism & the Kidney",
+        "Pathophysiology of Chronic Kidney Disease (CKD)",
+        "Renal Function & Transport Physiology",
+        "Renal Immunology & Pathology (incl. Glomerular Diseases)",
+        "Tubulo-Interstitial Diseases of the Kidney",
+        "Stones & Endourology"
+      ]
+    },
+    {
+      "specialty": "Neurology",
+      "number": "261",
+      "subspec": [
+        "Alzheimer's, Dementia & Cognitive Neurology",
+        "Cerebrovascular Disease",
+        "Developmental & Pediatric Neurology",
+        "Epilepsy",
+        "Headache",
+        "Infectious Diseases of the Nervous System",
+        "Movement Disorders",
+        "Multiple Sclerosis & Related Disorders",
+        "Neurogenics",
+        "Neuroimaging",
+        "Neuromuscular Diseases",
+        "Neuro-Oncology",
+        "Neuro-Ophthalmology & Neuro-Otology",
+        "Neurorehabilitation & CNS Trauma",
+        "Peripheral Neuropathies",
+        "Related Sections",
+        "Neuro-Endocrinology & Pituitary",
+        "Neurological Problems in Critical Care",
+        "Pain: Basic Science"
+      ]
+    },
+    {
+      "specialty": "Obstetrics",
+      "number": "262",
+      "subspec": [
+        "Endometriosis",
+        "Fertility Regulation",
+        "Gynecologic Inflammation & Infections",
+        "Menopause & Post-Reproductive Women’s Health",
+        "Menstrual Abnormalities & Abnormal Uterine Bleeding",
+        "Pregnancy, Labor, Delivery & Postpartum Care",
+        "Psychological Challenges & Issues for Women",
+        "Reproductive Immunology",
+        "Related Sections",
+        "Breast Diseases:  Benign & Malignant",
+        "Gynecological Cancers",
+        "Obstetrical Anesthesiology"
+      ]
+    },
+    {
+      "specialty": "Oncology",
+      "number": "263",
+      "subspec": [
+        "Breast Diseases:  Benign & Malignant",
+        "Cancer in the Elderly",
+        "Genitourinary Cancers",
+        "Gynecological Cancers",
+        "Head & Neck Cancers",
+        "Oncology Agents",
+        "Pediatric Oncology",
+        "Sarcomas",
+        "Supportive & Palliative Cancer Care",
+        "Related Sections",
+        "Gastrointestinal Cancers",
+        "Leukemia & Proliferative Disorders of Hematic Cells",
+        "Lung Cancer",
+        "Lymphomas & Myelomas",
+        "Multiple Endocrine Disorders & Neoplasias",
+        "Neuro-Oncology",
+        "Skin Cancers (incl. Melanoma & Lymphoma)"
+      ]
+    },
+    {
+      "specialty": "Ophthalmology",
+      "number": "264",
+      "subspec": [
+        "Anterior Uveitis & Posterior Uveitis",
+        "Corneal & External Disorders",
+        "Glaucoma",
+        "Lens Disorders",
+        "Low Vision",
+        "Oculoplastic & Orbital Disorders",
+        "Ophthalmic Oncology",
+        "Refractive Errors & Refractive Surgery",
+        "Retinal, Vitreous & Macular Disorders",
+        "Strabismus & Pediatric Ophthalmology"
+      ]
+    },
+    {
+      "specialty": "Orthopedics",
+      "number": "265",
+      "subspec": []
+    },
+    {
+      "specialty": "Pediatrics",
+      "number": "97",
+      "subspec": []
+    },
+    {
+      "specialty": "Psychiatry",
+      "number": "266",
+      "subspec": [
+        "Anxiety Disorders",
+        "Child & Adolescent Psychiatry",
+        "Eating Disorders",
+        "Mood Disorders",
+        "Personality & Impulse Disorders",
+        "Psychiatric Aspects of Somatic Diseases",
+        "Schizophrenia & Other Psychoses",
+        "Sexual Dysfunction",
+        "Substance Abuse",
+        "Related Sections",
+        "Alzheimer’s, Dementia & Cognitive Neurology",
+        "Psychological Challenges & Issues for Women"
+      ]
+    },
+    {
+      "specialty": "Pulmonary Medicine and Sleep Disorders",
+      "number": "267",
+      "subspec": []
+    },
+    {
+      "specialty": "Radiology/Imaging",
+      "number": "103",
+      "subspec": []
+    },
+    {
+      "specialty": "Rheumatology",
+      "number": "268",
+      "subspec": [
+        "Biomarkers",
+        "Bone Biology, Osteoporosis & Other Diseases of Bone",
+        "Cartilage Disorders & Osteoarthritis",
+        "Clinical Immunology",
+        "Etiology, Pathogenesis & Animal Models of Rheumatic Disease",
+        "Imaging of the Musculoskeletal System",
+        "Immune & Inflammatory Rheumatic Diseases (incl. Arthritis)",
+        "Methods, Measurements & Outcomes in Rheumatic Disease",
+        "Musculoskeletal Pain & Analgesia",
+        "Musculoskeletal Repair & Regeneration",
+        "Orthopedics",
+        "Related Sections",
+        "Urticaria, Vasculitis & Connective Tissue Disease"
+      ]
+    },
+    {
+      "specialty": "Small Animal Veterinary Medicine",
+      "number": "275",
+      "subspec": []
+    },
+    {
+      "specialty": "Surgery",
+      "number": "104",
+      "subspec": []
+    }
+  ]
+}
